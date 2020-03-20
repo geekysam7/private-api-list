@@ -1,0 +1,8 @@
+{
+    "instaDP": {
+        "profilePhotoDownloaderForInstagram" : {
+            "if_Working" : "https://yazilimsalcozumler.com/api/hdppfi/hd.php?user_id={REPLACE_WITH_USER_ID}",
+            "else" : "https://androidevreni.com/api/hdppfi/hd.php?user_id={REPLACE_WITH_USER_ID}"
+        }
+    }
+}
